@@ -28,6 +28,7 @@
 <p><a href="https://www.gas.com/">gas</a></p>
 <p><a href="https://mail.google.com/">gmail</a></p>
 <p><a href="https://business152.web-hosting.com/">hosting</a></p>
+<p><a href="https://bfb.google.com/">google</a></p>
 </div>
 
 <div style="display:none;"> // Usergaruda
