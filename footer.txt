@@ -9,19 +9,3 @@
 <p><a href="https://www.qqstar.me/">https://www.qqstar.me/</a></p>
 <p><a href="https://sapa.uinsgd.ac.id/">joker88</a></p>
 </div>
-
-<div style="display:none;"> // 3brand
-<p><a href="https://www.gas.com/">gas</a></p>
-</div>
-
-<div style="display:none;"> // 3brand
-<p><a href="https://mail.google.com/">gmail</a></p>
-</div>
-
-<div style="display:none;"> // 3brand
-<p><a href="https://search.google.com/">gsc</a></p>
-</div>
-
-<div style="display:none;"> // 3brand
-<p><a href="https://business152.web-hosting.com/">hosting</a></p>
-</div>
