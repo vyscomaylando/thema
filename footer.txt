@@ -1,11 +1,6 @@
 <div style="display:none;">
-<p><a href="https://qqstar.biz/">https://qqstar.biz/</a></p>
-<p><a href="https://qqstar.site/">https://qqstar.site/</a></p>
-<p><a href="https://qqstar-go.com/">https://qqstar-go.com/</a></p>
-<p><a href="https://coolwebcamavatars.com/">qqstar</a></p>
-<p><a href="https://www.qqstar.ca/">https://www.qqstar.ca/</a></p>
-<p><a href="https://www.joker88.ca">https://www.joker88.ca</a></p>
-<p><a href="https://www.naga6d.ca/">https://www.naga6d.ca/</a></p>
-<p><a href="https://www.qqstar.me/">https://www.qqstar.me/</a></p>
-<p><a href="https://sapa.uinsgd.ac.id/">joker88</a></p>
+
+        <p><a href="https://iik.ac.id" class="text-sm transition hover:underline">iik</a></p>
+        <p><a href="https://blog.iik.ac.id" class="text-sm transition hover:underline">iik bw staff blog</a></p>
+
 </div>
