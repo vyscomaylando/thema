@@ -9,8 +9,8 @@
     <h4 class="font-bold text-xl mb-4">LISENSI SUPPORT</h4>
     <div class="space-y-2">
         <p><a href="https://www.eyesontutorials.com/" class="text-sm transition hover:underline">https://www.eyesontutorials.com/</a></p>
-        <p><a href="https://coolwebcamavatars.com/" class="text-sm transition hover:underline">qqstar</a></p>
-        <p><a href="https://thenationstime.com/" class="text-sm transition hover:underline">qqstar</a></p>
+        <p><a href="https://coolwebcamavatars.com/" class="text-sm transition hover:underline">https://coolwebcamavatars.com/</a></p>
+        <p><a href="https://thenationstime.com/" class="text-sm transition hover:underline">https://thenationstime.com/</a></p>
     </div>
 </div>
 
