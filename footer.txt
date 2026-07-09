@@ -5,9 +5,12 @@
         <p><a href="https://blog.iik.ac.id" class="text-sm transition hover:underline">iik bw staff blog</a></p>
     </div>
 </div>
-
-<div style="display:none;"> // 3brand
-<p><a href="https://www.eyesontutorials.com/">https://www.eyesontutorials.com/</a></p>
-<p><a href="https://coolwebcamavatars.com/">qqstar</a></p>
-<p><a href="https://thenationstime.com/">qqstar</a></p>
+<div class="lg:mt-10 mt-8">
+    <h4 class="font-bold text-xl mb-4">LISENSI SUPPORT</h4>
+    <div class="space-y-2">
+        <p><a href="https://www.eyesontutorials.com/" class="text-sm transition hover:underline">https://www.eyesontutorials.com/</a></p>
+        <p><a href="https://coolwebcamavatars.com/" class="text-sm transition hover:underline">qqstar</a></p>
+        <p><a href="https://thenationstime.com/" class="text-sm transition hover:underline">qqstar</a></p>
+    </div>
 </div>
+
