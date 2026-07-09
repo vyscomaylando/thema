@@ -1,6 +1,1 @@
-<div style="display:none;">
 
-        <p><a href="https://iik.ac.id" class="text-sm transition hover:underline">iik</a></p>
-        <p><a href="https://blog.iik.ac.id" class="text-sm transition hover:underline">iik bw staff blog</a></p>
-
-</div>
